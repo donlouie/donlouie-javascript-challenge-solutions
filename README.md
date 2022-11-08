@@ -10,7 +10,7 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)  
 
 
-My collection of javaScript challenge solutions and notes from various sites.
+My collection of javascript challenge solutions and notes from various sites.
 
 ## Getting Started
 

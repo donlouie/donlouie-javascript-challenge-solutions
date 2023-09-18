@@ -17,9 +17,3 @@ Create own copy
 git clone
 ```
 
-Then, in each challenge folder, you can run the following to see the tests for
-that challenge.
-
-```
-node <filename>.js
-```
